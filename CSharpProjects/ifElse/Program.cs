@@ -29,7 +29,7 @@ if ((roll1 == roll2) && (roll2 == roll3))
 
 //Add an IF statement to display different messages based on the value of the total variable
 
-if (total => 15)
+if (total >= 15)
 {
         Console.WriteLine("You win!");
 }
