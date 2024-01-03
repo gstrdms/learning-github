@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\VSCode Projects\CsharpProjects\ifElse\CSharpProjects\ifElse\bin\Debug\net8.0\ifElse.exe
+C:\Users\pc\Desktop\VSCode Projects\CsharpProjects\ifElse\CSharpProjects\ifElse\bin\Debug\net8.0\ifElse.deps.json
+C:\Users\pc\Desktop\VSCode Projects\CsharpProjects\ifElse\CSharpProjects\ifElse\bin\Debug\net8.0\ifElse.runtimeconfig.json
+C:\Users\pc\Desktop\VSCode Projects\CsharpProjects\ifElse\CSharpProjects\ifElse\bin\Debug\net8.0\ifElse.dll
+C:\Users\pc\Desktop\VSCode Projects\CsharpProjects\ifElse\CSharpProjects\ifElse\bin\Debug\net8.0\ifElse.pdb
+C:\Users\pc\Desktop\VSCode Projects\CsharpProjects\ifElse\CSharpProjects\ifElse\obj\Debug\net8.0\ifElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\VSCode Projects\CsharpProjects\ifElse\CSharpProjects\ifElse\obj\Debug\net8.0\ifElse.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\VSCode Projects\CsharpProjects\ifElse\CSharpProjects\ifElse\obj\Debug\net8.0\ifElse.AssemblyInfo.cs
+C:\Users\pc\Desktop\VSCode Projects\CsharpProjects\ifElse\CSharpProjects\ifElse\obj\Debug\net8.0\ifElse.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\VSCode Projects\CsharpProjects\ifElse\CSharpProjects\ifElse\obj\Debug\net8.0\ifElse.dll
+C:\Users\pc\Desktop\VSCode Projects\CsharpProjects\ifElse\CSharpProjects\ifElse\obj\Debug\net8.0\refint\ifElse.dll
+C:\Users\pc\Desktop\VSCode Projects\CsharpProjects\ifElse\CSharpProjects\ifElse\obj\Debug\net8.0\ifElse.pdb
+C:\Users\pc\Desktop\VSCode Projects\CsharpProjects\ifElse\CSharpProjects\ifElse\obj\Debug\net8.0\ifElse.genruntimeconfig.cache
+C:\Users\pc\Desktop\VSCode Projects\CsharpProjects\ifElse\CSharpProjects\ifElse\obj\Debug\net8.0\ref\ifElse.dll
