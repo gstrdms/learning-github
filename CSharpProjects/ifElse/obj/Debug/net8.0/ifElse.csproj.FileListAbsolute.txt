@@ -12,3 +12,4 @@ C:\Users\pc\Desktop\VSCode Projects\CsharpProjects\ifElse\CSharpProjects\ifElse\
 C:\Users\pc\Desktop\VSCode Projects\CsharpProjects\ifElse\CSharpProjects\ifElse\obj\Debug\net8.0\ifElse.pdb
 C:\Users\pc\Desktop\VSCode Projects\CsharpProjects\ifElse\CSharpProjects\ifElse\obj\Debug\net8.0\ifElse.genruntimeconfig.cache
 C:\Users\pc\Desktop\VSCode Projects\CsharpProjects\ifElse\CSharpProjects\ifElse\obj\Debug\net8.0\ref\ifElse.dll
+C:\Users\pc\Desktop\VSCode Projects\CsharpProjects\ifElse\CSharpProjects\ifElse\obj\Debug\net8.0\ifElse.sourcelink.json
